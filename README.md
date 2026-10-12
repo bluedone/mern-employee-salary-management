@@ -137,7 +137,7 @@ This project was created using the following technologies.
 ![img-18](https://user-images.githubusercontent.com/111676859/235832707-2c9d7c1a-9174-441c-9c9a-2992b91b46e8.png)
 
 ## Author
-- Portfolio: [berthutapea](https://berthutapea.vercel.app/)
+- Portfolio:: [berthutapea](https://berthutapea.vercel.app/)
 - Github: [berthutapea](https://github.com/berthutapea)
 - Sponsor: [berthutapea](https://saweria.co/berthutapea)
 - Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
